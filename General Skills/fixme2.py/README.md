@@ -19,3 +19,13 @@ Esta vez se trata de un error de asignación. Al estar en un if, el programa esp
 ```
 codium fixme2.py
 ```
+
+Y modificamos la línea 22:
+
+![VSCodium](img/codium.png)
+
+Ahora al ejecutar el comando no dará ningún error:
+
+![Consola](img/console2.png)
+
+Y obtendremos la flag: 'picoCTF{3qu4l1ty_n0t_4551gnm3nt_e8814d03}'
