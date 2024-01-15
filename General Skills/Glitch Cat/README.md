@@ -6,7 +6,7 @@ Our flag printing service has started glitching!
 `$ nc saturn.picoctf.net 52682`
 
 ## Resolucion
-Nso conectamos al servicor con el comando proporcionado:
+Nos conectamos al servicor con el comando proporcionado:
 
 ![Consola](img/console1.png)
 
