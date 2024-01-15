@@ -17,7 +17,7 @@ python3 fixme1.py
 Como podemos ver, se trata de un error de identación en la línea 20. Esto quiere decir que hay un problema con las tabulaciones en esa línea. Abrimos el archivo con VSCodium:
 
 ```
-codium fixme.py
+codium fixme1.py
 ```
 
 Y vemos que la línea 20 está tabulada:
