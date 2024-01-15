@@ -40,10 +40,10 @@ with open("dictionary.txt","r") as diccionario:
 
 Ejecutar el programa anterior en el mismo directorio que los archivos descargados dará el siguiente resultado:
 
-[Output](img/output.png)
+![Output](img/output.png)
 
 Al probar la clave en el programa 'level5.py' obtendremos el siguiente resultado:
 
-[Consola](img/cpmsple.png)
+![Consola](img/cpmsple.png)
 
 Así conseguiremos la flag: 'picoCTF{h45h_sl1ng1ng_36e992a6}'.
