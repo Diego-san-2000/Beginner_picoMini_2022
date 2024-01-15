@@ -44,6 +44,6 @@ Ejecutar el programa anterior en el mismo directorio que los archivos descargado
 
 Al probar la clave en el programa 'level5.py' obtendremos el siguiente resultado:
 
-![Consola](img/comsole.png)
+![Consola](img/console.png)
 
 Así conseguiremos la flag: 'picoCTF{h45h_sl1ng1ng_36e992a6}'.
