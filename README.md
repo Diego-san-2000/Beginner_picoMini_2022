@@ -1,0 +1,1 @@
+# Beginner_picoMini_2022
