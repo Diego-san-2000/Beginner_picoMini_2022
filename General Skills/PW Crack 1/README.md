@@ -11,7 +11,7 @@ Nos descargamos los dos archivos y ejecutamos el script de python:
 
 Nos pide una contraseña para poder desencriptar la flag.
 
-Abriimos el archivo de python para ver si encontramos algo interesante:
+Abrimos el archivo de python para ver si encontramos algo interesante:
 
 ![VSCodium](img/codium.png)
 
