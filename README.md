@@ -4,11 +4,11 @@
 picoMini es una competición anual que desafía a los participantes a resolver problemas de seguridad informática y hacking. En la categoría Beginner, los desafíos están diseñados para aquellos que están dando sus primeros pasos en el mundo de la ciberseguridad.
 
 ## ¿Qué es este repositorio?
-¡Bienvenido a mi repositorio de writeups para el picoMini 2022 en la categoría de Beginner! Aquí encontrarás soluciones detalladas y explicaciones paso a paso para los desafíos de nivel principiante de la competición picoMini 2022.
+¡Bienvenido a mi repositorio de writeups para el picoMini 2022 en la categoría de Beginner! Aquí encontrarás soluciones detalladas y explicaciones paso a paso para los desafíos de nivel principiante de esta competición.
 
 ## Estado de los retos
-| Challenge     | Points | Done |
-|---------------|--------|------|
+| Desafío       | Puntos | Realizado |
+|---------------|--------|-----------|
 | Codebook      | 100    | ✅    |
 | convertme.py  | 100    | ✅    |
 | fixme1.py     | 100    | ✅    |
