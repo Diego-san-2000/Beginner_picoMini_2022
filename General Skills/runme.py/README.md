@@ -13,6 +13,6 @@ python3 runme.py
 
 Nos dará el siguiente resultado:
 
-![Console](img/console)
+![Console](img/console.png)
 
 Obteniendo así la flag: 'picoCTF{run_s4n1ty_run}'.
