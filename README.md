@@ -26,7 +26,7 @@ picoMini es una competición anual que desafía a los participantes a resolver p
 
 ## Cómo Utilizar Este Repositorio
 1. Navega a la carpeta del desafío que te interese.
-2. Lee la solución proporcionada en el archivo README.md y los archivo sadjunto.
+2. Lee la solución proporcionada en el archivo README.md y los archivos adjuntos.
 3. Si tienes alguna pregunta, ¡no dudes en abrir un problema o contribuir con tu propio enfoque!
 
 ## Contribuciones
