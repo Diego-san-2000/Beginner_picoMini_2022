@@ -1,4 +1,4 @@
-# Beginner picoMini 2022 Writeups en Español
+# Beginner picoMini 2022 writeups en español
 
 ## ¿Qué es picoMini 2022?
 picoMini es una competición anual que desafía a los participantes a resolver problemas de seguridad informática y hacking. En la categoría Beginner, los desafíos están diseñados para aquellos que están dando sus primeros pasos en el mundo de la ciberseguridad.
@@ -24,7 +24,7 @@ picoMini es una competición anual que desafía a los participantes a resolver p
 | Serpentine    | 100    | ✅    |
 
 
-## Cómo Utilizar Este Repositorio
+## Cómo utilizar este repositorio
 1. Navega a la carpeta del desafío que te interese.
 2. Lee la solución proporcionada en el archivo README.md y los archivos adjuntos.
 3. Si tienes alguna pregunta, ¡no dudes en abrir un problema o contribuir con tu propio enfoque!
